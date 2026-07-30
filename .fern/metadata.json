@@ -1,0 +1,20 @@
+{
+    "cliVersion": "5.82.0",
+    "generatorName": "fernapi/fern-typescript-sdk",
+    "generatorVersion": "3.84.0",
+    "generatorConfig": {
+        "namespaceExport": "ZealApi",
+        "packageJson": {
+            "name": "@zeal-api/sdk",
+            "description": "Official TypeScript SDK for the Zeal API",
+            "author": "Zeal",
+            "license": "MIT",
+            "repository": "zeal-corp/typescript-sdk"
+        }
+    },
+    "originGitCommit": "20b41b61b08d903b4c296e03c0c314db74949515",
+    "originGitCommitIsDirty": true,
+    "invokedBy": "manual",
+    "requestedVersion": "0.2.1",
+    "sdkVersion": "0.2.1"
+}

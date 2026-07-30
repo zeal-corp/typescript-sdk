@@ -1,0 +1,10 @@
+export { CreateAuthorizationDocumentsCompaniesRequest } from "./CreateAuthorizationDocumentsCompaniesRequest.js";
+export type { CreateBankAccountCompaniesRequest } from "./CreateBankAccountCompaniesRequest.js";
+export { CreateCompaniesRequest } from "./CreateCompaniesRequest.js";
+export type { GetAuthorizationDocumentsCompaniesRequest } from "./GetAuthorizationDocumentsCompaniesRequest.js";
+export type { GetOnboardingLinkCompaniesRequest } from "./GetOnboardingLinkCompaniesRequest.js";
+export type { ListCompaniesRequest } from "./ListCompaniesRequest.js";
+export type { SetStatusToOnboardedCompaniesRequest } from "./SetStatusToOnboardedCompaniesRequest.js";
+export type { TriggerMicrodepositsCompaniesRequest } from "./TriggerMicrodepositsCompaniesRequest.js";
+export { UpdateCompaniesRequest } from "./UpdateCompaniesRequest.js";
+export type { VerifyMicrodepositsCompaniesRequest } from "./VerifyMicrodepositsCompaniesRequest.js";
